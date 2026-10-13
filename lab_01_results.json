@@ -1,0 +1,1845 @@
+{
+  "student": "Арзамаскина Виктория Дмитриевна",
+  "group": "ИНФА-231",
+  "variant": 2,
+  "corpus_source": "books.toscrape.com",
+  "corpus_total": 1000,
+  "sample_size": 750,
+  "random_state": 102,
+  "min_len": 3,
+  "vocabulary_size": 16313,
+  "build_time_seconds": 0.12754379900002277,
+  "query": "magic world",
+  "query_terms": [
+    "magic",
+    "world"
+  ],
+  "main_operator": "OR",
+  "and_results_count": 12,
+  "and_time_seconds": 5.853000061506464e-06,
+  "or_results_count": 258,
+  "or_time_seconds": 2.0408499949553516e-05,
+  "linear_search_time_seconds": 0.09130981750001865,
+  "index_speedup": 7967.35025290349,
+  "vocabulary_by_min_len": {
+    "1": 16469,
+    "2": 16443,
+    "3": 16313,
+    "4": 15776,
+    "5": 14417
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4669,
+    "250": 8705,
+    "500": 13138,
+    "750": 16313
+  },
+  "results": [
+    {
+      "doc_id": 2,
+      "source_id": 630,
+      "title": "Dracula the Un-Dead",
+      "genre": "",
+      "price": 35.63
+    },
+    {
+      "doc_id": 3,
+      "source_id": 366,
+      "title": "The Diary of a Young Girl",
+      "genre": "",
+      "price": 59.9
+    },
+    {
+      "doc_id": 7,
+      "source_id": 676,
+      "title": "Gone with the Wind",
+      "genre": "",
+      "price": 32.49
+    },
+    {
+      "doc_id": 10,
+      "source_id": 393,
+      "title": "The Improbability of Love",
+      "genre": "",
+      "price": 59.45
+    },
+    {
+      "doc_id": 12,
+      "source_id": 632,
+      "title": "Death Note, Vol. 5: Whiteout (Death Note #5)",
+      "genre": "",
+      "price": 52.41
+    },
+    {
+      "doc_id": 15,
+      "source_id": 595,
+      "title": "The Grand Design",
+      "genre": "",
+      "price": 13.76
+    },
+    {
+      "doc_id": 24,
+      "source_id": 900,
+      "title": "Fruits Basket, Vol. 2 (Fruits Basket #2)",
+      "genre": "",
+      "price": 11.64
+    },
+    {
+      "doc_id": 25,
+      "source_id": 189,
+      "title": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond",
+      "genre": "",
+      "price": 49.43
+    },
+    {
+      "doc_id": 34,
+      "source_id": 829,
+      "title": "Hungry Girl Clean &amp; Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World",
+      "genre": "",
+      "price": 33.14
+    },
+    {
+      "doc_id": 36,
+      "source_id": 706,
+      "title": "Two Boys Kissing",
+      "genre": "",
+      "price": 32.74
+    },
+    {
+      "doc_id": 39,
+      "source_id": 589,
+      "title": "The Raven Boys (The Raven Cycle #1)",
+      "genre": "",
+      "price": 57.74
+    },
+    {
+      "doc_id": 40,
+      "source_id": 970,
+      "title": "Lord of the Flies",
+      "genre": "",
+      "price": 24.89
+    },
+    {
+      "doc_id": 41,
+      "source_id": 919,
+      "title": "The Selfish Gene",
+      "genre": "",
+      "price": 29.45
+    },
+    {
+      "doc_id": 43,
+      "source_id": 857,
+      "title": "Crazy Rich Asians (Crazy Rich Asians #1)",
+      "genre": "",
+      "price": 49.13
+    },
+    {
+      "doc_id": 46,
+      "source_id": 543,
+      "title": "A Short History of Nearly Everything",
+      "genre": "",
+      "price": 52.4
+    },
+    {
+      "doc_id": 52,
+      "source_id": 645,
+      "title": "Vogue Colors A to Z: A Fashion Coloring Book",
+      "genre": "",
+      "price": 52.35
+    },
+    {
+      "doc_id": 53,
+      "source_id": 490,
+      "title": "32 Yolks",
+      "genre": "",
+      "price": 53.63
+    },
+    {
+      "doc_id": 54,
+      "source_id": 686,
+      "title": "Atlas Shrugged",
+      "genre": "",
+      "price": 26.58
+    },
+    {
+      "doc_id": 56,
+      "source_id": 252,
+      "title": "The Dovekeepers",
+      "genre": "",
+      "price": 48.78
+    },
+    {
+      "doc_id": 60,
+      "source_id": 340,
+      "title": "All the Light We Cannot See",
+      "genre": "",
+      "price": 29.87
+    },
+    {
+      "doc_id": 64,
+      "source_id": 968,
+      "title": "Matilda",
+      "genre": "",
+      "price": 28.34
+    },
+    {
+      "doc_id": 68,
+      "source_id": 441,
+      "title": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+      "genre": "",
+      "price": 48.63
+    },
+    {
+      "doc_id": 69,
+      "source_id": 860,
+      "title": "Civilization and Its Discontents",
+      "genre": "",
+      "price": 59.95
+    },
+    {
+      "doc_id": 72,
+      "source_id": 824,
+      "title": "Inferno (Robert Langdon #4)",
+      "genre": "",
+      "price": 41.0
+    },
+    {
+      "doc_id": 73,
+      "source_id": 171,
+      "title": "Secrets and Lace (Fatal Hearts #1)",
+      "genre": "",
+      "price": 20.27
+    },
+    {
+      "doc_id": 76,
+      "source_id": 73,
+      "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+      "genre": "",
+      "price": 41.83
+    },
+    {
+      "doc_id": 86,
+      "source_id": 684,
+      "title": "Candide",
+      "genre": "",
+      "price": 58.63
+    },
+    {
+      "doc_id": 90,
+      "source_id": 844,
+      "title": "Fifty Shades Freed (Fifty Shades #3)",
+      "genre": "",
+      "price": 15.36
+    },
+    {
+      "doc_id": 92,
+      "source_id": 654,
+      "title": "The Geography of Bliss: One Grump&#39;s Search for the Happiest Places in the World",
+      "genre": "",
+      "price": 28.23
+    },
+    {
+      "doc_id": 96,
+      "source_id": 549,
+      "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+      "genre": "",
+      "price": 59.45
+    },
+    {
+      "doc_id": 97,
+      "source_id": 457,
+      "title": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+      "genre": "",
+      "price": 38.89
+    },
+    {
+      "doc_id": 101,
+      "source_id": 523,
+      "title": "Memoirs of a Geisha",
+      "genre": "",
+      "price": 49.67
+    },
+    {
+      "doc_id": 105,
+      "source_id": 250,
+      "title": "The Guilty (Will Robie #4)",
+      "genre": "",
+      "price": 13.82
+    },
+    {
+      "doc_id": 106,
+      "source_id": 976,
+      "title": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+      "genre": "",
+      "price": 45.24
+    },
+    {
+      "doc_id": 110,
+      "source_id": 555,
+      "title": "The Golden Compass (His Dark Materials #1)",
+      "genre": "",
+      "price": 18.77
+    },
+    {
+      "doc_id": 118,
+      "source_id": 929,
+      "title": "The Light of the Fireflies",
+      "genre": "",
+      "price": 54.43
+    },
+    {
+      "doc_id": 120,
+      "source_id": 485,
+      "title": "Brilliant Beacons: A History of the American Lighthouse",
+      "genre": "",
+      "price": 11.45
+    },
+    {
+      "doc_id": 121,
+      "source_id": 176,
+      "title": "Poems That Make Grown Women Cry",
+      "genre": "",
+      "price": 14.19
+    },
+    {
+      "doc_id": 123,
+      "source_id": 74,
+      "title": "Soul Reader",
+      "genre": "",
+      "price": 39.58
+    },
+    {
+      "doc_id": 125,
+      "source_id": 535,
+      "title": "Every Heart a Doorway (Every Heart A Doorway #1)",
+      "genre": "",
+      "price": 12.16
+    },
+    {
+      "doc_id": 128,
+      "source_id": 260,
+      "title": "Swell: A Year of Waves",
+      "genre": "",
+      "price": 45.58
+    },
+    {
+      "doc_id": 138,
+      "source_id": 226,
+      "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+      "genre": "",
+      "price": 45.95
+    },
+    {
+      "doc_id": 140,
+      "source_id": 424,
+      "title": "The Shack",
+      "genre": "",
+      "price": 28.03
+    },
+    {
+      "doc_id": 142,
+      "source_id": 146,
+      "title": "The Omnivore&#39;s Dilemma: A Natural History of Four Meals",
+      "genre": "",
+      "price": 38.21
+    },
+    {
+      "doc_id": 145,
+      "source_id": 544,
+      "title": "A Gathering of Shadows (Shades of Magic #2)",
+      "genre": "",
+      "price": 44.81
+    },
+    {
+      "doc_id": 152,
+      "source_id": 153,
+      "title": "The Kite Runner",
+      "genre": "",
+      "price": 41.82
+    },
+    {
+      "doc_id": 154,
+      "source_id": 121,
+      "title": "A World of Flavor: Your Gluten Free Passport",
+      "genre": "",
+      "price": 42.95
+    },
+    {
+      "doc_id": 156,
+      "source_id": 154,
+      "title": "The House by the Lake",
+      "genre": "",
+      "price": 36.95
+    },
+    {
+      "doc_id": 157,
+      "source_id": 4,
+      "title": "Sapiens: A Brief History of Humankind",
+      "genre": "",
+      "price": 54.23
+    },
+    {
+      "doc_id": 160,
+      "source_id": 325,
+      "title": "City of Ashes (The Mortal Instruments #2)",
+      "genre": "",
+      "price": 47.27
+    },
+    {
+      "doc_id": 166,
+      "source_id": 249,
+      "title": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+      "genre": "",
+      "price": 28.77
+    },
+    {
+      "doc_id": 167,
+      "source_id": 440,
+      "title": "Chernobyl 01:23:40: The Incredible True Story of the World&#39;s Worst Nuclear Disaster",
+      "genre": "",
+      "price": 35.92
+    },
+    {
+      "doc_id": 169,
+      "source_id": 702,
+      "title": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+      "genre": "",
+      "price": 50.66
+    },
+    {
+      "doc_id": 171,
+      "source_id": 761,
+      "title": "The Cuckoo&#39;s Calling (Cormoran Strike #1)",
+      "genre": "",
+      "price": 19.21
+    },
+    {
+      "doc_id": 172,
+      "source_id": 696,
+      "title": "Where&#39;d You Go, Bernadette",
+      "genre": "",
+      "price": 18.13
+    },
+    {
+      "doc_id": 180,
+      "source_id": 585,
+      "title": "Two Summers",
+      "genre": "",
+      "price": 14.64
+    },
+    {
+      "doc_id": 181,
+      "source_id": 896,
+      "title": "Life",
+      "genre": "",
+      "price": 31.58
+    },
+    {
+      "doc_id": 182,
+      "source_id": 657,
+      "title": "The Bone Hunters (Lexy Vaughan &amp; Steven Macaulay #2)",
+      "genre": "",
+      "price": 59.71
+    },
+    {
+      "doc_id": 183,
+      "source_id": 757,
+      "title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+      "genre": "",
+      "price": 44.29
+    },
+    {
+      "doc_id": 185,
+      "source_id": 265,
+      "title": "Someone Like You (The Harrisons #2)",
+      "genre": "",
+      "price": 52.79
+    },
+    {
+      "doc_id": 189,
+      "source_id": 954,
+      "title": "Rat Queens, Vol. 1: Sass &amp; Sorcery (Rat Queens (Collected Editions) #1-5)",
+      "genre": "",
+      "price": 46.96
+    },
+    {
+      "doc_id": 191,
+      "source_id": 685,
+      "title": "Can You Keep a Secret?",
+      "genre": "",
+      "price": 21.94
+    },
+    {
+      "doc_id": 192,
+      "source_id": 782,
+      "title": "Scarlet (The Lunar Chronicles #2)",
+      "genre": "",
+      "price": 14.57
+    },
+    {
+      "doc_id": 194,
+      "source_id": 480,
+      "title": "Heaven is for Real: A Little Boy&#39;s Astounding Story of His Trip to Heaven and Back",
+      "genre": "",
+      "price": 52.86
+    },
+    {
+      "doc_id": 195,
+      "source_id": 142,
+      "title": "The Regional Office Is Under Attack!",
+      "genre": "",
+      "price": 51.36
+    },
+    {
+      "doc_id": 196,
+      "source_id": 7,
+      "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "genre": "",
+      "price": 17.93
+    },
+    {
+      "doc_id": 197,
+      "source_id": 871,
+      "title": "Big Little Lies",
+      "genre": "",
+      "price": 22.11
+    },
+    {
+      "doc_id": 200,
+      "source_id": 224,
+      "title": "V for Vendetta (V for Vendetta Complete)",
+      "genre": "",
+      "price": 37.1
+    },
+    {
+      "doc_id": 204,
+      "source_id": 718,
+      "title": "The Stand",
+      "genre": "",
+      "price": 57.86
+    },
+    {
+      "doc_id": 205,
+      "source_id": 241,
+      "title": "The Marriage of Opposites",
+      "genre": "",
+      "price": 28.08
+    },
+    {
+      "doc_id": 207,
+      "source_id": 162,
+      "title": "The Art of War",
+      "genre": "",
+      "price": 33.34
+    },
+    {
+      "doc_id": 210,
+      "source_id": 125,
+      "title": "A Fierce and Subtle Poison",
+      "genre": "",
+      "price": 28.13
+    },
+    {
+      "doc_id": 211,
+      "source_id": 486,
+      "title": "Brazen: The Courage to Find the You That&#39;s Been Hiding",
+      "genre": "",
+      "price": 19.22
+    },
+    {
+      "doc_id": 212,
+      "source_id": 115,
+      "title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+      "genre": "",
+      "price": 29.14
+    },
+    {
+      "doc_id": 215,
+      "source_id": 963,
+      "title": "Of Mice and Men",
+      "genre": "",
+      "price": 47.11
+    },
+    {
+      "doc_id": 216,
+      "source_id": 167,
+      "title": "Soft Apocalypse",
+      "genre": "",
+      "price": 26.12
+    },
+    {
+      "doc_id": 223,
+      "source_id": 145,
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "genre": "",
+      "price": 43.54
+    },
+    {
+      "doc_id": 226,
+      "source_id": 726,
+      "title": "The Rest Is Noise: Listening to the Twentieth Century",
+      "genre": "",
+      "price": 34.77
+    },
+    {
+      "doc_id": 230,
+      "source_id": 758,
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "genre": "",
+      "price": 52.25
+    },
+    {
+      "doc_id": 235,
+      "source_id": 479,
+      "title": "History of Beauty",
+      "genre": "",
+      "price": 10.29
+    },
+    {
+      "doc_id": 236,
+      "source_id": 464,
+      "title": "Out of Print: City Lights Spotlight No. 14",
+      "genre": "",
+      "price": 53.64
+    },
+    {
+      "doc_id": 237,
+      "source_id": 806,
+      "title": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+      "genre": "",
+      "price": 55.46
+    },
+    {
+      "doc_id": 239,
+      "source_id": 141,
+      "title": "The Secret (The Secret #1)",
+      "genre": "",
+      "price": 27.37
+    },
+    {
+      "doc_id": 241,
+      "source_id": 9,
+      "title": "The Black Maria",
+      "genre": "",
+      "price": 52.15
+    },
+    {
+      "doc_id": 247,
+      "source_id": 495,
+      "title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+      "genre": "",
+      "price": 46.33
+    },
+    {
+      "doc_id": 258,
+      "source_id": 754,
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "genre": "",
+      "price": 22.13
+    },
+    {
+      "doc_id": 259,
+      "source_id": 593,
+      "title": "The Little Paris Bookshop",
+      "genre": "",
+      "price": 24.73
+    },
+    {
+      "doc_id": 264,
+      "source_id": 279,
+      "title": "Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 &amp; 42 (Naruto: Omnibus #14)",
+      "genre": "",
+      "price": 38.39
+    },
+    {
+      "doc_id": 265,
+      "source_id": 101,
+      "title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+      "genre": "",
+      "price": 29.17
+    },
+    {
+      "doc_id": 266,
+      "source_id": 710,
+      "title": "Three-Martini Lunch",
+      "genre": "",
+      "price": 23.21
+    },
+    {
+      "doc_id": 267,
+      "source_id": 795,
+      "title": "Packing for Mars: The Curious Science of Life in the Void",
+      "genre": "",
+      "price": 56.68
+    },
+    {
+      "doc_id": 270,
+      "source_id": 566,
+      "title": "Me Before You (Me Before You #1)",
+      "genre": "",
+      "price": 19.02
+    },
+    {
+      "doc_id": 271,
+      "source_id": 81,
+      "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+      "genre": "",
+      "price": 13.34
+    },
+    {
+      "doc_id": 274,
+      "source_id": 107,
+      "title": "First and First (Five Boroughs #3)",
+      "genre": "",
+      "price": 15.97
+    },
+    {
+      "doc_id": 285,
+      "source_id": 790,
+      "title": "Red: The True Story of Red Riding Hood",
+      "genre": "",
+      "price": 28.54
+    },
+    {
+      "doc_id": 287,
+      "source_id": 933,
+      "title": "The Haters",
+      "genre": "",
+      "price": 27.89
+    },
+    {
+      "doc_id": 289,
+      "source_id": 483,
+      "title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+      "genre": "",
+      "price": 28.41
+    },
+    {
+      "doc_id": 290,
+      "source_id": 281,
+      "title": "My Mrs. Brown",
+      "genre": "",
+      "price": 24.48
+    },
+    {
+      "doc_id": 294,
+      "source_id": 245,
+      "title": "The Literature Book (Big Ideas Simply Explained)",
+      "genre": "",
+      "price": 17.43
+    },
+    {
+      "doc_id": 299,
+      "source_id": 402,
+      "title": "M Train",
+      "genre": "",
+      "price": 27.18
+    },
+    {
+      "doc_id": 301,
+      "source_id": 41,
+      "title": "Reasons to Stay Alive",
+      "genre": "",
+      "price": 26.41
+    },
+    {
+      "doc_id": 303,
+      "source_id": 347,
+      "title": "A Man Called Ove",
+      "genre": "",
+      "price": 39.72
+    },
+    {
+      "doc_id": 305,
+      "source_id": 498,
+      "title": "The Year of Living Biblically: One Man&#39;s Humble Quest to Follow the Bible as Literally as Possible",
+      "genre": "",
+      "price": 34.72
+    },
+    {
+      "doc_id": 306,
+      "source_id": 903,
+      "title": "While You Were Mine",
+      "genre": "",
+      "price": 41.32
+    },
+    {
+      "doc_id": 307,
+      "source_id": 90,
+      "title": "My Paris Kitchen: Recipes and Stories",
+      "genre": "",
+      "price": 33.37
+    },
+    {
+      "doc_id": 309,
+      "source_id": 55,
+      "title": "The Torch Is Passed: A Harding Family Story",
+      "genre": "",
+      "price": 19.09
+    },
+    {
+      "doc_id": 317,
+      "source_id": 541,
+      "title": "At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+      "genre": "",
+      "price": 29.93
+    },
+    {
+      "doc_id": 318,
+      "source_id": 825,
+      "title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler&#39;s Berlin",
+      "genre": "",
+      "price": 28.85
+    },
+    {
+      "doc_id": 320,
+      "source_id": 727,
+      "title": "The Red Tent",
+      "genre": "",
+      "price": 35.66
+    },
+    {
+      "doc_id": 322,
+      "source_id": 780,
+      "title": "Seven Days in the Art World",
+      "genre": "",
+      "price": 52.33
+    },
+    {
+      "doc_id": 323,
+      "source_id": 914,
+      "title": "The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",
+      "genre": "",
+      "price": 36.52
+    },
+    {
+      "doc_id": 328,
+      "source_id": 236,
+      "title": "The Star-Touched Queen",
+      "genre": "",
+      "price": 46.02
+    },
+    {
+      "doc_id": 330,
+      "source_id": 330,
+      "title": "Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+      "genre": "",
+      "price": 37.8
+    },
+    {
+      "doc_id": 331,
+      "source_id": 187,
+      "title": "Hollow City (Miss Peregrine’s Peculiar Children #2)",
+      "genre": "",
+      "price": 42.98
+    },
+    {
+      "doc_id": 333,
+      "source_id": 202,
+      "title": "Close to You",
+      "genre": "",
+      "price": 49.46
+    },
+    {
+      "doc_id": 336,
+      "source_id": 747,
+      "title": "The Guernsey Literary and Potato Peel Pie Society",
+      "genre": "",
+      "price": 49.53
+    },
+    {
+      "doc_id": 340,
+      "source_id": 116,
+      "title": "Burning",
+      "genre": "",
+      "price": 28.81
+    },
+    {
+      "doc_id": 346,
+      "source_id": 721,
+      "title": "The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",
+      "genre": "",
+      "price": 55.55
+    },
+    {
+      "doc_id": 347,
+      "source_id": 851,
+      "title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+      "genre": "",
+      "price": 51.48
+    },
+    {
+      "doc_id": 354,
+      "source_id": 278,
+      "title": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+      "genre": "",
+      "price": 21.95
+    },
+    {
+      "doc_id": 368,
+      "source_id": 852,
+      "title": "Disrupted: My Misadventure in the Start-Up Bubble",
+      "genre": "",
+      "price": 15.28
+    },
+    {
+      "doc_id": 370,
+      "source_id": 23,
+      "title": "Chase Me (Paris Nights #2)",
+      "genre": "",
+      "price": 25.27
+    },
+    {
+      "doc_id": 390,
+      "source_id": 958,
+      "title": "Origins (Alphas 0.5)",
+      "genre": "",
+      "price": 28.99
+    },
+    {
+      "doc_id": 393,
+      "source_id": 505,
+      "title": "The Faith of Christopher Hitchens: The Restless Soul of the World&#39;s Most Notorious Atheist",
+      "genre": "",
+      "price": 39.55
+    },
+    {
+      "doc_id": 395,
+      "source_id": 40,
+      "title": "Slow States of Collapse: Poems",
+      "genre": "",
+      "price": 57.31
+    },
+    {
+      "doc_id": 396,
+      "source_id": 990,
+      "title": "Bridget Jones&#39;s Diary (Bridget Jones #1)",
+      "genre": "",
+      "price": 29.82
+    },
+    {
+      "doc_id": 397,
+      "source_id": 196,
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "genre": "",
+      "price": 34.95
+    },
+    {
+      "doc_id": 401,
+      "source_id": 392,
+      "title": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+      "genre": "",
+      "price": 11.68
+    },
+    {
+      "doc_id": 405,
+      "source_id": 514,
+      "title": "Sit, Stay, Love",
+      "genre": "",
+      "price": 20.9
+    },
+    {
+      "doc_id": 411,
+      "source_id": 39,
+      "title": "You can&#39;t bury them all: Poems",
+      "genre": "",
+      "price": 33.63
+    },
+    {
+      "doc_id": 416,
+      "source_id": 34,
+      "title": "Sophie&#39;s World",
+      "genre": "",
+      "price": 15.94
+    },
+    {
+      "doc_id": 417,
+      "source_id": 29,
+      "title": "Wall and Piece",
+      "genre": "",
+      "price": 44.18
+    },
+    {
+      "doc_id": 421,
+      "source_id": 376,
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "genre": "",
+      "price": 54.36
+    },
+    {
+      "doc_id": 426,
+      "source_id": 276,
+      "title": "Once Was a Time",
+      "genre": "",
+      "price": 18.28
+    },
+    {
+      "doc_id": 427,
+      "source_id": 364,
+      "title": "The Epidemic (The Program 0.6)",
+      "genre": "",
+      "price": 14.44
+    },
+    {
+      "doc_id": 429,
+      "source_id": 792,
+      "title": "Quiet: The Power of Introverts in a World That Can&#39;t Stop Talking",
+      "genre": "",
+      "price": 43.55
+    },
+    {
+      "doc_id": 431,
+      "source_id": 144,
+      "title": "The Project",
+      "genre": "",
+      "price": 10.65
+    },
+    {
+      "doc_id": 432,
+      "source_id": 397,
+      "title": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+      "genre": "",
+      "price": 21.15
+    },
+    {
+      "doc_id": 435,
+      "source_id": 352,
+      "title": "Searching for Meaning in Gailana",
+      "genre": "",
+      "price": 38.73
+    },
+    {
+      "doc_id": 436,
+      "source_id": 185,
+      "title": "Large Print Heart of the Pride",
+      "genre": "",
+      "price": 19.15
+    },
+    {
+      "doc_id": 437,
+      "source_id": 248,
+      "title": "The Hidden Oracle (The Trials of Apollo #1)",
+      "genre": "",
+      "price": 52.26
+    },
+    {
+      "doc_id": 442,
+      "source_id": 379,
+      "title": "How to Speak Golf: An Illustrated Guide to Links Lingo",
+      "genre": "",
+      "price": 58.32
+    },
+    {
+      "doc_id": 443,
+      "source_id": 547,
+      "title": "The Perks of Being a Wallflower",
+      "genre": "",
+      "price": 55.02
+    },
+    {
+      "doc_id": 444,
+      "source_id": 413,
+      "title": "Arena",
+      "genre": "",
+      "price": 21.36
+    },
+    {
+      "doc_id": 446,
+      "source_id": 336,
+      "title": "Art Ops Vol. 1",
+      "genre": "",
+      "price": 48.8
+    },
+    {
+      "doc_id": 447,
+      "source_id": 157,
+      "title": "The Genius of Birds",
+      "genre": "",
+      "price": 17.24
+    },
+    {
+      "doc_id": 449,
+      "source_id": 8,
+      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "genre": "",
+      "price": 22.6
+    },
+    {
+      "doc_id": 451,
+      "source_id": 819,
+      "title": "Lady Renegades (Rebel Belle #3)",
+      "genre": "",
+      "price": 53.04
+    },
+    {
+      "doc_id": 456,
+      "source_id": 574,
+      "title": "Deception Point",
+      "genre": "",
+      "price": 40.32
+    },
+    {
+      "doc_id": 457,
+      "source_id": 803,
+      "title": "Naked",
+      "genre": "",
+      "price": 31.69
+    },
+    {
+      "doc_id": 465,
+      "source_id": 694,
+      "title": "World War Z: An Oral History of the Zombie War",
+      "genre": "",
+      "price": 21.8
+    },
+    {
+      "doc_id": 467,
+      "source_id": 581,
+      "title": "Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+      "genre": "",
+      "price": 47.31
+    },
+    {
+      "doc_id": 468,
+      "source_id": 830,
+      "title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+      "genre": "",
+      "price": 43.7
+    },
+    {
+      "doc_id": 469,
+      "source_id": 164,
+      "title": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+      "genre": "",
+      "price": 27.55
+    },
+    {
+      "doc_id": 470,
+      "source_id": 818,
+      "title": "Lamb: The Gospel According to Biff, Christ&#39;s Childhood Pal",
+      "genre": "",
+      "price": 55.5
+    },
+    {
+      "doc_id": 471,
+      "source_id": 172,
+      "title": "Scarlett Epstein Hates It Here",
+      "genre": "",
+      "price": 43.55
+    },
+    {
+      "doc_id": 477,
+      "source_id": 779,
+      "title": "Shopaholic &amp; Baby (Shopaholic #5)",
+      "genre": "",
+      "price": 46.45
+    },
+    {
+      "doc_id": 479,
+      "source_id": 91,
+      "title": "Masks and Shadows",
+      "genre": "",
+      "price": 56.4
+    },
+    {
+      "doc_id": 481,
+      "source_id": 855,
+      "title": "Darkfever (Fever #1)",
+      "genre": "",
+      "price": 56.02
+    },
+    {
+      "doc_id": 483,
+      "source_id": 180,
+      "title": "Modern Romance",
+      "genre": "",
+      "price": 28.26
+    },
+    {
+      "doc_id": 484,
+      "source_id": 75,
+      "title": "Security",
+      "genre": "",
+      "price": 39.25
+    },
+    {
+      "doc_id": 486,
+      "source_id": 690,
+      "title": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+      "genre": "",
+      "price": 27.62
+    },
+    {
+      "doc_id": 489,
+      "source_id": 155,
+      "title": "The Glittering Court (The Glittering Court #1)",
+      "genre": "",
+      "price": 44.28
+    },
+    {
+      "doc_id": 492,
+      "source_id": 169,
+      "title": "Shoe Dog: A Memoir by the Creator of NIKE",
+      "genre": "",
+      "price": 23.99
+    },
+    {
+      "doc_id": 497,
+      "source_id": 545,
+      "title": "The Sound Of Love",
+      "genre": "",
+      "price": 57.84
+    },
+    {
+      "doc_id": 498,
+      "source_id": 394,
+      "title": "The Art of Startup Fundraising",
+      "genre": "",
+      "price": 21.0
+    },
+    {
+      "doc_id": 500,
+      "source_id": 168,
+      "title": "So You&#39;ve Been Publicly Shamed",
+      "genre": "",
+      "price": 12.23
+    },
+    {
+      "doc_id": 503,
+      "source_id": 847,
+      "title": "Eragon (The Inheritance Cycle #1)",
+      "genre": "",
+      "price": 43.87
+    },
+    {
+      "doc_id": 506,
+      "source_id": 251,
+      "title": "The First Hostage (J.B. Collins #2)",
+      "genre": "",
+      "price": 25.85
+    },
+    {
+      "doc_id": 508,
+      "source_id": 337,
+      "title": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+      "genre": "",
+      "price": 58.14
+    },
+    {
+      "doc_id": 509,
+      "source_id": 944,
+      "title": "Starlark",
+      "genre": "",
+      "price": 25.83
+    },
+    {
+      "doc_id": 512,
+      "source_id": 951,
+      "title": "Sense and Sensibility",
+      "genre": "",
+      "price": 37.46
+    },
+    {
+      "doc_id": 516,
+      "source_id": 854,
+      "title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+      "genre": "",
+      "price": 17.81
+    },
+    {
+      "doc_id": 517,
+      "source_id": 205,
+      "title": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+      "genre": "",
+      "price": 27.43
+    },
+    {
+      "doc_id": 523,
+      "source_id": 487,
+      "title": "Between the World and Me",
+      "genre": "",
+      "price": 56.91
+    },
+    {
+      "doc_id": 527,
+      "source_id": 143,
+      "title": "The Psychopath Test: A Journey Through the Madness Industry",
+      "genre": "",
+      "price": 36.0
+    },
+    {
+      "doc_id": 528,
+      "source_id": 796,
+      "title": "Outliers: The Story of Success",
+      "genre": "",
+      "price": 14.16
+    },
+    {
+      "doc_id": 531,
+      "source_id": 255,
+      "title": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts",
+      "genre": "",
+      "price": 15.77
+    },
+    {
+      "doc_id": 532,
+      "source_id": 127,
+      "title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+      "genre": "",
+      "price": 54.0
+    },
+    {
+      "doc_id": 534,
+      "source_id": 580,
+      "title": "World Without End (The Pillars of the Earth #2)",
+      "genre": "",
+      "price": 32.97
+    },
+    {
+      "doc_id": 537,
+      "source_id": 16,
+      "title": "Olio",
+      "genre": "",
+      "price": 23.88
+    },
+    {
+      "doc_id": 540,
+      "source_id": 964,
+      "title": "Myriad (Prentor #1)",
+      "genre": "",
+      "price": 58.75
+    },
+    {
+      "doc_id": 545,
+      "source_id": 888,
+      "title": "The Suffragettes (Little Black Classics, #96)",
+      "genre": "",
+      "price": 11.89
+    },
+    {
+      "doc_id": 546,
+      "source_id": 709,
+      "title": "Trespassing Across America: One Man&#39;s Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",
+      "genre": "",
+      "price": 53.51
+    },
+    {
+      "doc_id": 549,
+      "source_id": 450,
+      "title": "The New Drawing on the Right Side of the Brain",
+      "genre": "",
+      "price": 43.02
+    },
+    {
+      "doc_id": 555,
+      "source_id": 536,
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+      "genre": "",
+      "price": 20.89
+    },
+    {
+      "doc_id": 556,
+      "source_id": 716,
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "genre": "",
+      "price": 10.02
+    },
+    {
+      "doc_id": 566,
+      "source_id": 781,
+      "title": "Seven Brief Lessons on Physics",
+      "genre": "",
+      "price": 30.6
+    },
+    {
+      "doc_id": 573,
+      "source_id": 671,
+      "title": "Harry Potter and the Sorcerer&#39;s Stone (Harry Potter #1)",
+      "genre": "",
+      "price": 13.9
+    },
+    {
+      "doc_id": 577,
+      "source_id": 561,
+      "title": "Tell the Wolves I&#39;m Home",
+      "genre": "",
+      "price": 50.96
+    },
+    {
+      "doc_id": 578,
+      "source_id": 681,
+      "title": "Dark Lover (Black Dagger Brotherhood #1)",
+      "genre": "",
+      "price": 12.87
+    },
+    {
+      "doc_id": 586,
+      "source_id": 474,
+      "title": "John Vassos: Industrial Design for Modern Life",
+      "genre": "",
+      "price": 20.22
+    },
+    {
+      "doc_id": 592,
+      "source_id": 507,
+      "title": "The Constant Princess (The Tudor Court #1)",
+      "genre": "",
+      "price": 16.62
+    },
+    {
+      "doc_id": 598,
+      "source_id": 272,
+      "title": "Rain Fish",
+      "genre": "",
+      "price": 23.57
+    },
+    {
+      "doc_id": 599,
+      "source_id": 408,
+      "title": "Grey (Fifty Shades #4)",
+      "genre": "",
+      "price": 48.49
+    },
+    {
+      "doc_id": 603,
+      "source_id": 48,
+      "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails &amp; Other Wonders of the Urban Wilderness",
+      "genre": "",
+      "price": 44.18
+    },
+    {
+      "doc_id": 606,
+      "source_id": 317,
+      "title": "Daily Fantasy Sports",
+      "genre": "",
+      "price": 36.58
+    },
+    {
+      "doc_id": 610,
+      "source_id": 943,
+      "title": "Taking Shots (Assassins #1)",
+      "genre": "",
+      "price": 18.88
+    },
+    {
+      "doc_id": 612,
+      "source_id": 981,
+      "title": "Forever Rockers (The Rocker #12)",
+      "genre": "",
+      "price": 28.8
+    },
+    {
+      "doc_id": 614,
+      "source_id": 257,
+      "title": "That Darkness (Gardiner and Renner #1)",
+      "genre": "",
+      "price": 13.92
+    },
+    {
+      "doc_id": 617,
+      "source_id": 749,
+      "title": "The Giver (The Giver Quartet #1)",
+      "genre": "",
+      "price": 12.3
+    },
+    {
+      "doc_id": 621,
+      "source_id": 834,
+      "title": "Heir to the Sky",
+      "genre": "",
+      "price": 44.07
+    },
+    {
+      "doc_id": 627,
+      "source_id": 351,
+      "title": "The Three Searches, Meaning, and the Story",
+      "genre": "",
+      "price": 13.33
+    },
+    {
+      "doc_id": 634,
+      "source_id": 436,
+      "title": "If I Gave You God&#39;s Phone Number....: Searching for Spirituality in America",
+      "genre": "",
+      "price": 20.91
+    },
+    {
+      "doc_id": 635,
+      "source_id": 362,
+      "title": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
+      "genre": "",
+      "price": 59.15
+    },
+    {
+      "doc_id": 641,
+      "source_id": 303,
+      "title": "God: The Most Unpleasant Character in All Fiction",
+      "genre": "",
+      "price": 30.03
+    },
+    {
+      "doc_id": 644,
+      "source_id": 994,
+      "title": "Beyond Good and Evil",
+      "genre": "",
+      "price": 43.38
+    },
+    {
+      "doc_id": 647,
+      "source_id": 43,
+      "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+      "genre": "",
+      "price": 23.11
+    },
+    {
+      "doc_id": 649,
+      "source_id": 93,
+      "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+      "genre": "",
+      "price": 46.91
+    },
+    {
+      "doc_id": 650,
+      "source_id": 703,
+      "title": "Vegan Vegetarian Omnivore: Dinner for Everyone at the Table",
+      "genre": "",
+      "price": 13.66
+    },
+    {
+      "doc_id": 653,
+      "source_id": 204,
+      "title": "Big Magic: Creative Living Beyond Fear",
+      "genre": "",
+      "price": 30.8
+    },
+    {
+      "doc_id": 655,
+      "source_id": 264,
+      "title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+      "genre": "",
+      "price": 44.74
+    },
+    {
+      "doc_id": 659,
+      "source_id": 553,
+      "title": "The Hobbit (Middle-Earth Universe)",
+      "genre": "",
+      "price": 17.8
+    },
+    {
+      "doc_id": 663,
+      "source_id": 739,
+      "title": "The Lonely Ones",
+      "genre": "",
+      "price": 43.59
+    },
+    {
+      "doc_id": 665,
+      "source_id": 564,
+      "title": "Musicophilia: Tales of Music and the Brain",
+      "genre": "",
+      "price": 46.58
+    },
+    {
+      "doc_id": 668,
+      "source_id": 633,
+      "title": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+      "genre": "",
+      "price": 32.35
+    },
+    {
+      "doc_id": 669,
+      "source_id": 864,
+      "title": "Breaking Dawn (Twilight #4)",
+      "genre": "",
+      "price": 35.28
+    },
+    {
+      "doc_id": 670,
+      "source_id": 767,
+      "title": "The Book Thief",
+      "genre": "",
+      "price": 53.49
+    },
+    {
+      "doc_id": 672,
+      "source_id": 27,
+      "title": "Aladdin and His Wonderful Lamp",
+      "genre": "",
+      "price": 53.13
+    },
+    {
+      "doc_id": 676,
+      "source_id": 77,
+      "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+      "genre": "",
+      "price": 51.04
+    },
+    {
+      "doc_id": 677,
+      "source_id": 865,
+      "title": "Brave Enough",
+      "genre": "",
+      "price": 51.32
+    },
+    {
+      "doc_id": 679,
+      "source_id": 551,
+      "title": "The Joy of Cooking",
+      "genre": "",
+      "price": 43.27
+    },
+    {
+      "doc_id": 680,
+      "source_id": 661,
+      "title": "Paper and Fire (The Great Library #2)",
+      "genre": "",
+      "price": 49.45
+    },
+    {
+      "doc_id": 682,
+      "source_id": 688,
+      "title": "A Walk to Remember",
+      "genre": "",
+      "price": 56.43
+    },
+    {
+      "doc_id": 685,
+      "source_id": 584,
+      "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+      "genre": "",
+      "price": 53.68
+    },
+    {
+      "doc_id": 687,
+      "source_id": 295,
+      "title": "Island of Dragons (Unwanteds #7)",
+      "genre": "",
+      "price": 29.65
+    },
+    {
+      "doc_id": 689,
+      "source_id": 165,
+      "title": "Suddenly in Love (Lake Haven #1)",
+      "genre": "",
+      "price": 55.99
+    },
+    {
+      "doc_id": 690,
+      "source_id": 750,
+      "title": "The Girl with All the Gifts",
+      "genre": "",
+      "price": 49.47
+    },
+    {
+      "doc_id": 695,
+      "source_id": 868,
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "genre": "",
+      "price": 21.74
+    },
+    {
+      "doc_id": 696,
+      "source_id": 135,
+      "title": "The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”",
+      "genre": "",
+      "price": 58.08
+    },
+    {
+      "doc_id": 697,
+      "source_id": 112,
+      "title": "Crown of Midnight (Throne of Glass #2)",
+      "genre": "",
+      "price": 43.29
+    },
+    {
+      "doc_id": 699,
+      "source_id": 904,
+      "title": "Where Lightning Strikes (Bleeding Stars #3)",
+      "genre": "",
+      "price": 39.77
+    },
+    {
+      "doc_id": 701,
+      "source_id": 977,
+      "title": "Having the Barbarian&#39;s Baby (Ice Planet Barbarians #7.5)",
+      "genre": "",
+      "price": 34.96
+    },
+    {
+      "doc_id": 702,
+      "source_id": 926,
+      "title": "The Name of the Wind (The Kingkiller Chronicle #1)",
+      "genre": "",
+      "price": 50.59
+    },
+    {
+      "doc_id": 703,
+      "source_id": 947,
+      "title": "Shatter Me (Shatter Me #1)",
+      "genre": "",
+      "price": 42.4
+    },
+    {
+      "doc_id": 704,
+      "source_id": 223,
+      "title": "Walt Disney&#39;s Alice in Wonderland",
+      "genre": "",
+      "price": 12.96
+    },
+    {
+      "doc_id": 707,
+      "source_id": 404,
+      "title": "Lies and Other Acts of Love",
+      "genre": "",
+      "price": 45.14
+    },
+    {
+      "doc_id": 708,
+      "source_id": 231,
+      "title": "The Wright Brothers",
+      "genre": "",
+      "price": 56.8
+    },
+    {
+      "doc_id": 709,
+      "source_id": 214,
+      "title": "Agnostic: A Spirited Manifesto",
+      "genre": "",
+      "price": 12.51
+    },
+    {
+      "doc_id": 710,
+      "source_id": 641,
+      "title": "A Girl&#39;s Guide to Moving On (New Beginnings #2)",
+      "genre": "",
+      "price": 31.3
+    },
+    {
+      "doc_id": 712,
+      "source_id": 533,
+      "title": "For the Love: Fighting for Grace in a World of Impossible Standards",
+      "genre": "",
+      "price": 45.13
+    },
+    {
+      "doc_id": 713,
+      "source_id": 552,
+      "title": "The Invention of Wings",
+      "genre": "",
+      "price": 37.34
+    },
+    {
+      "doc_id": 715,
+      "source_id": 339,
+      "title": "Angels &amp; Demons (Robert Langdon #1)",
+      "genre": "",
+      "price": 51.48
+    },
+    {
+      "doc_id": 718,
+      "source_id": 475,
+      "title": "I&#39;ll Give You the Sun",
+      "genre": "",
+      "price": 56.48
+    },
+    {
+      "doc_id": 724,
+      "source_id": 892,
+      "title": "Sugar Rush (Offensive Line #2)",
+      "genre": "",
+      "price": 24.42
+    },
+    {
+      "doc_id": 725,
+      "source_id": 328,
+      "title": "Carry On, Warrior: Thoughts on Life Unarmed",
+      "genre": "",
+      "price": 31.85
+    },
+    {
+      "doc_id": 726,
+      "source_id": 801,
+      "title": "Night (The Night Trilogy #1)",
+      "genre": "",
+      "price": 13.51
+    },
+    {
+      "doc_id": 730,
+      "source_id": 798,
+      "title": "Orange Is the New Black",
+      "genre": "",
+      "price": 24.61
+    },
+    {
+      "doc_id": 731,
+      "source_id": 606,
+      "title": "Talking to Girls About Duran Duran: One Young Man&#39;s Quest for True Love and a Cooler Haircut",
+      "genre": "",
+      "price": 25.15
+    },
+    {
+      "doc_id": 732,
+      "source_id": 33,
+      "title": "The Bear and the Piano",
+      "genre": "",
+      "price": 36.89
+    },
+    {
+      "doc_id": 733,
+      "source_id": 746,
+      "title": "The Guns of August",
+      "genre": "",
+      "price": 14.54
+    },
+    {
+      "doc_id": 735,
+      "source_id": 730,
+      "title": "The Picture of Dorian Gray",
+      "genre": "",
+      "price": 29.7
+    },
+    {
+      "doc_id": 737,
+      "source_id": 138,
+      "title": "The Third Wave: An Entrepreneur’s Vision of the Future",
+      "genre": "",
+      "price": 12.61
+    },
+    {
+      "doc_id": 739,
+      "source_id": 435,
+      "title": "Modern Day Fables",
+      "genre": "",
+      "price": 47.44
+    },
+    {
+      "doc_id": 740,
+      "source_id": 64,
+      "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+      "genre": "",
+      "price": 16.77
+    },
+    {
+      "doc_id": 741,
+      "source_id": 804,
+      "title": "Morning Star (Red Rising #3)",
+      "genre": "",
+      "price": 29.4
+    },
+    {
+      "doc_id": 743,
+      "source_id": 609,
+      "title": "Remember Me?",
+      "genre": "",
+      "price": 11.48
+    },
+    {
+      "doc_id": 744,
+      "source_id": 496,
+      "title": "Under the Tuscan Sun",
+      "genre": "",
+      "price": 37.33
+    }
+  ]
+}
